@@ -1,6 +1,6 @@
 # Final Project - GitHub and Git CLI Practice
 
-This repository is part of a final assignment to demonstrate GitHub and Git CLI operations.
+This is the final project for Git and GitHub hands-on labs.
 
 ## Contents
 
